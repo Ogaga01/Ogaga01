@@ -3,12 +3,24 @@
 
 <p align="right">I am currently studying remotely at Microverse to become a Full Stack Web Developer. I have a passion for coding, desiagning, problem solving and learning new things. </p>
 ---
+
+
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+
+
 - 🌱 I’m currently deepening my knowledge in JavaScript.
+
+
 - 💻 All **my projects** are available [here.](https://github.com/Ogaga01?tab=repositories)
+
+
 ### 📫 Reach me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogaga-iyara-0339b0105/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_ogaga_n)
+
+
 - ✨ Interests: coding, reading books, designing, gisting.
+
+
 ---
 <h2 align="center">Skills</h2>
 <p align="center">
