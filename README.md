@@ -1,7 +1,8 @@
 <h1 align="left"> Hi there👋, I'm Ogaga</h1>
 <h3 align="left">I am asoftware developer from Nigeria</h3>
 
-<p align="right">I am currently studying remotely at Microverse to become a Full Stack Web Developer. I have a passion for coding, desiagning, problem solving and learning new things. </p>
+<p align="left">I am currently studying remotely at Microverse to become a Full Stack Web Developer. I have a passion for coding, desiagning, problem solving and learning new things. </p>
+
 ---
 
 
@@ -22,6 +23,8 @@
 
 
 ---
+
+
 <h2 align="center">Skills</h2>
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
