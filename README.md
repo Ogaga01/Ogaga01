@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there👋, I'm Ogaga</h1>
 <h3 align="left">I am a software developer from Nigeria</h3>
 
-<p align="left">I am currently studying remotely at Microverse to become a Full Stack Web Developer. I have a passion for coding, designing, problem solving and learning new things. </p>
+<p align="left">I am currently studying remotely at Microverse to become a Full-stack Web Developer. I have a passion for coding, designing, problem solving and learning new things. </p>
 
 ---
 
