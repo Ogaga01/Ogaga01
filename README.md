@@ -5,26 +5,20 @@
 
 ---
 
-
 - 👩‍💻 I’m currently studying and training to become a **Full-stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-
 - 🌱 I’m currently deepening my knowledge in Ruby and Ruby on Rails.
-
 
 - 💻 All **my projects** are available [here.](https://github.com/Ogaga01?tab=repositories)
 - ### 🚀 Check out [my portfolio.](https://ogaga.me/)
 
-
 ### 📫 Reach me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogaga-iyara-0339b0105/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_ogaga_n)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogaga-iyara-0339b0105/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_ogaga_n)
 
 - ✨ Interests: coding, reading books, designing, gisting.
 
-
 ---
-
 
 <h2 align="center">Skills</h2>
 <p align="center">
@@ -53,8 +47,11 @@
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ba59dc0e-d33d-48d2-a6ae-6b94736a9984#gs.2qlk0k" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/8dc30957-8cc7-42c6-93df-43bc32535948#gs.2qll15" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/7bc821c5-b53f-4769-8529-4c8f6eb45d99" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/58a14aaf-67c7-42f7-9a62-e644d9cd4776#gs.2qlh91" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/3e16ee2f-1975-4792-91dc-bb214aa46177#gs.2qof9v" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/6f15f7c4-8932-427e-936b-6095befaf6f5#gs.2qoe90" target="blank"><img src="./images/web-dev-badge.png" width="80"></a>
 </p>
 
-
-
+<h2 align ="left">GitHub Stats</h2>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ogaga01&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogaga01&show_icons=true&theme=nightowl&layout=compact"/>
+</div>
 
 <!--
 **Ogaga01/Ogaga01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
