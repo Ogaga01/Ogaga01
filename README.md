@@ -50,7 +50,7 @@
 </p>
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ba59dc0e-d33d-48d2-a6ae-6b94736a9984#gs.ynx9rf" target="blank"><img src="./images/html-css-badge.png" width="80"></a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ba59dc0e-d33d-48d2-a6ae-6b94736a9984#gs.2qlk0k" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/8dc30957-8cc7-42c6-93df-43bc32535948#gs.2qll15" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/7bc821c5-b53f-4769-8529-4c8f6eb45d99" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/58a14aaf-67c7-42f7-9a62-e644d9cd4776#gs.2qlh91" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/3e16ee2f-1975-4792-91dc-bb214aa46177#gs.2qof9v" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/6f15f7c4-8932-427e-936b-6095befaf6f5#gs.2qoe90" target="blank"><img src="./images/web-dev-badge.png" width="80"></a>
 </p>
 
 
