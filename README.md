@@ -4,6 +4,7 @@
 <p align="center">I have a passion for coding, designing, problem-solving, and learning new things. I also love developing websites because it makes me bring my ideas to life.</p>
 
 ---
+<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 👩‍💻 I’m currently studying and training to become a **Full-stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
