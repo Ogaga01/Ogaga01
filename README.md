@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Ogaga</h1>
-<h3 align="center">I am a software developer from Nigeria</h3>
+<h3 align="center">I am a Full-stack software developer from Nigeria</h3>
 
 <p align="center">I have a passion for coding, designing, problem-solving, and learning new things. I also love developing websites because it makes me bring my ideas to life.</p>
 
