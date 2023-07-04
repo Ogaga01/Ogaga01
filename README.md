@@ -1,7 +1,7 @@
-<h1 align="left"> Hi there👋, I'm Ogaga</h1>
-<h3 align="left">I am a software developer from Nigeria</h3>
+<h1 align="center"> Hi there👋, I'm Ogaga</h1>
+<h3 align="center">I am a software developer from Nigeria</h3>
 
-<p align="left">I am currently studying remotely at Microverse to become a Full-stack Web Developer. I have a passion for coding, designing, problem solving and learning new things. </p>
+<p align="center">I have a passion for coding, designing, problem-solving, and learning new things. I also love developing websites because it makes me bring my ideas to life.</p>
 
 ---
 
@@ -9,10 +9,11 @@
 - 👩‍💻 I’m currently studying and training to become a **Full-stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
 
-- 🌱 I’m currently deepening my knowledge in JavaScript.
+- 🌱 I’m currently deepening my knowledge in Ruby and Ruby on Rails.
 
 
 - 💻 All **my projects** are available [here.](https://github.com/Ogaga01?tab=repositories)
+- ### 🚀 Check out [my portfolio.](https://ogaga.me/)
 
 
 ### 📫 Reach me on:
